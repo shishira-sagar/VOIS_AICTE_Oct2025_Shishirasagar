@@ -42,6 +42,9 @@ Environment: Google Colab / Jupyter Notebook
 
 #Navigate to the directory:
 
+To run this:
+clone my repository and then 
+
 cd VOIS_AICTE_Oct2025_Shishirasagar
 
 Ensure you have the dataset (1730285881-Airbnb_Open_Data.xlsx) in the same folder.
